@@ -1,3 +1,7 @@
 Hello this is mallikarjun learning Git 
 as well as learning devops
+<<<<<<< HEAD
 I am changing this code from vi editor in windows
+=======
+I have created testing and prod branch 
+>>>>>>> 9e6ae5acb283402fc266559f3da906c131eb38a2
